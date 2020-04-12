@@ -19,7 +19,7 @@ This repository contains a sample app that implements MVVM architecture using Ko
 <br>
 <br>
 
-### Concept reference resources - [ Using Retrofit with Kotlin Coroutines in Android]()
+### Concept reference resources - [ Using Retrofit with Kotlin Coroutines in Android](https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android)
 
 #### The app has following packages:
 1. **data**: It contains all the data accessing and manipulating components.
