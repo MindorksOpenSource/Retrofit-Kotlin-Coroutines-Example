@@ -29,13 +29,9 @@ This repository contains a sample app that implements MVVM architecture using Ko
 ### Reference resources:
 1. Coroutines: [Check here](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 
-### Looking for Kotlin MVP Architecture - [Check here](https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture)
+## Explore Android Online Tutorials and Courses To Learn More by MindOrks
+* [Ride-Sharing Uber Lyft Android App](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
+* [Android Tutorials](https://mindorks.com/android-tutorial) All Free Android Tutorials by MindOrks
+* [Android Online Course for Professionals](https://bootcamp.mindorks.com/) - In this online course, you’ll learn the Dagger, Kotlin, RxJava, MVVM Architecture, Architecture Components, Jetpack, LiveData, ViewModel, Room Database, Database Design, Multithreading, Memory Management, Networking, Caching, How Glide works, Unit Testing, and the best practices for Android Development. By the end of this online course, you will have all the skills you need to become a professional Android Developer.
+* [Android Online Course for Beginners](https://bootcamp.mindorks.com/android-training-for-beginners) - This course is for beginners for those who want to get started with Android Development. In this course, you will build two apps: TodoNotes and Ride-Sharing Uber Android App.
 
-### Looking for MVP Architecture - [Check here](https://github.com/MindorksOpenSource/android-mvp-architecture)
-
-### Learn to build a ride-sharing Android app like Uber, Lyft - [Check here](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
-
-[Check out MindOrks awesome open source projects here](https://mindorks.com/open-source-projects)
-
-### Contributing to Using retrofit with Kotlin Coroutines in Android
-Just make pull request. You are in!
