@@ -4,7 +4,17 @@
 
 This repository contains a sample app that implements MVVM architecture using Kotlin, ViewModel, Retrofit, Coroutines and etc.
 <p align="center">
-  <img src="">
+  <img src="https://github.com/MindorksOpenSource/Retrofit-Kotlin-Coroutines-Example/blob/master/assets/retrofit-kotlin-coroutines-banner.png">
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/MindorksOpenSource/Retrofit-Kotlin-Coroutines-Example/blob/master/assets/retrofit-coroutines-suspend.png">
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/MindorksOpenSource/Retrofit-Kotlin-Coroutines-Example/blob/master/assets/retofit-coroutines-package-structure.png">
 </p>
 <br>
 <br>
@@ -16,7 +26,7 @@ This repository contains a sample app that implements MVVM architecture using Ko
 3. **ui**: View classes along with their corresponding ViewModel.
 4. **utils**: Utility classes.
 
-### Library reference resources:
+### Reference resources:
 1. Coroutines: [Check here](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
 
 ### Looking for Kotlin MVP Architecture - [Check here](https://github.com/MindorksOpenSource/android-kotlin-mvp-architecture)
