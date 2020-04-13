@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
     private fun setupObservers() {
         viewModel.getUsers().observe(this, Observer {
             it?.let { resource ->
-                return@let when (resource.status) {
+               when (resource.status) {
                     SUCCESS -> {
                         recyclerView.visibility = View.VISIBLE
                         progressBar.visibility = View.GONE
